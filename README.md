@@ -39,7 +39,7 @@ I'm a **passionate Data Analyst** turning raw data into actionable insights. I l
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/oluwatomisinolanrewaju) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatomisinolanrewaju) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TomiAnalytics)  
 📬 Email: yetundeoluwatomisin9@gmail.com  
 
@@ -47,7 +47,7 @@ I'm a **passionate Data Analyst** turning raw data into actionable insights. I l
 
 ## 📊 GitHub Stats
 
-![TomiAnalytics's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiAnalytics&show_icons=true&theme=radical)
+![TomiAnalytics GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiAnalytics&show_icons=true&theme=radical)
 
 <!--
 **TomiAnalytics/TomiAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
