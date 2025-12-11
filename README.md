@@ -47,7 +47,7 @@ I'm a **passionate Data Analyst** turning raw data into actionable insights. I l
 
 ## 📊 GitHub Stats
 
-![TomiAnalytics GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiAnalytics&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=TomiAnalytics&show_icons=true&theme=radical
 
 <!--
 **TomiAnalytics/TomiAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
