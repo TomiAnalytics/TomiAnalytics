@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olanrewaju Oluwatomisin Yetunde  
+# 👋 Hi, I'm Oluwatomisin Olanrewaju
 ### Data Analyst | Business Intelligence Enthusiast | Problem Solver
 
 I'm a **passionate Data Analyst** turning raw data into actionable insights. I love exploring data, uncovering trends, building dashboards, and delivering solutions that solve real-world business problems.  
