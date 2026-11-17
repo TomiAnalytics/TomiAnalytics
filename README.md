@@ -1,56 +1,60 @@
-*👋 Hi, I’m Oluwatomisin Olanrewaju*
+# 👋 Hi, I'm Oluwatomisin Olanrewaju
+### Data Analyst | Business Intelligence Enthusiast | Problem Solver
 
-Data Analyst | Business Intelligence Enthusiast | Problem Solver
+I'm a **passionate Data Analyst** turning raw data into actionable insights. I love exploring data, uncovering trends, building dashboards, and delivering solutions that solve real-world business problems.  
 
-I’m a passionate Data Analyst who enjoys transforming raw data into meaningful insights that support business decisions. I specialize in exploring datasets, identifying trends, developing interactive dashboards, and communicating insights that solve real-world business problems.
+---
 
-I have practical experience in data entry, data cleaning, data transformation, exploratory data analysis, and business intelligence reporting.
+## 🔧 Skills & Tools
 
-🛠️ Technical Skills & Tools
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)
 
-* Programming & Query Languages: SQL, Python
-* Data Analysis: Microsoft Excel, Google Sheets, Exploratory Data Analysis (EDA)
-* Business Intelligence: Power BI, DAX, Dashboard Development
-* Data Preparation: Power Query, Data Cleaning, Data Transformation
-* Analytics Techniques: KPI Development, A/B Testing, Time Series Forecasting, Feature Engineering
-* Other Tools: GitHub
+**Analytics & ML:** A/B Testing | EDA | KPI Development | Time Series Forecasting | Feature Engineering | Prediction Models  
+**Data Storytelling:** Dashboard Development | BI Recommendations | Insights Presentation  
 
-📊 Featured Projects
+---
 
-1. EDA & KPI Dashboard
+## 📌 Projects
 
-* Performed exploratory data analysis to identify business trends and performance indicators.
-* Developed interactive dashboards to communicate key business insights.
+- **📊 KPI Dashboard – EDA:** Built dashboards to uncover business trends.  
+- **🗃️ SQL Analytics Challenge:** Solved complex queries with joins, aggregations, and window functions.  
+- **🧪 A/B Test Analysis:** Measured experiment significance for business decisions.  
+- **⏳ Time Series Forecasting:** Predicted trends for business planning.  
+- **🔧 Feature Engineering & Prediction:** Engineered features and built predictive models.  
+- **📈 Executive Dashboard:** Created dashboards with insights & strategic recommendations.  
+- **🧩 End-to-End Case Study:** Full pipeline: cleaning → analysis → modeling → visualization → insights delivery.  
 
-2. SQL Analytics Challenge
+---
 
-* Used SQL to analyse business data and answer analytical questions.
-* Applied joins, aggregations, subqueries, and window functions.
+## 🚀 Currently Learning
+- Advanced SQL & Power BI techniques  
+- Real-world end-to-end analytics projects  
+- Machine Learning model optimization  
 
-3. A/B Test Analysis
+---
 
-* Analysed experimental data to evaluate performance differences between test and control groups.
-* Applied statistical testing to support data-driven decisions.
+## 🤝 Connect with Me
 
-4. Time Series Forecasting
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatomisinolanrewaju) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TomiAnalytics)  
+📬 Email: yetundeoluwatomisin9@gmail.com  
 
-* Analysed historical data to identify trends and patterns.
-* Developed forecasts to support business planning and decision-making.
 
-5. Feature Engineering & Prediction
+<!--
+**TomiAnalytics/TomiAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-* Performed feature engineering and data preprocessing.
-* Developed predictive models and evaluated their performance.
+Here are some ideas to get you started:
 
-🚀 Currently Improving
-
-* Advanced SQL and database management
-* Power BI, DAX, and data modelling
-* Business Intelligence and data storytelling
-* End-to-end data analytics and predictive modelling
-
-🤝 Connect With Me
-
-* LinkedIn: Oluwatomisin Olanrewaju
-* GitHub: TomiAnalytics
-* Email: yetundeoluwatomisin9@gmail.com
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
